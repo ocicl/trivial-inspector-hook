@@ -1,0 +1,10 @@
+* trivial-inspector-hook
+
+A simple compatibility library for the *inspector-hook* of CDR-6.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/yitzchak/trivial-inspector-hook.git   |
+| commit  | {"messa  |
+| systems | trivial-inspector-hook |
+|---------+-------------------------------------------|
+
