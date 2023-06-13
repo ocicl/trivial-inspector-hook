@@ -4,7 +4,7 @@ A simple compatibility library for the *inspector-hook* of CDR-6.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/yitzchak/trivial-inspector-hook.git   |
-| commit  | {"messa  |
+| commit  | 0b1ce58  |
 | systems | trivial-inspector-hook |
 |---------+-------------------------------------------|
 
