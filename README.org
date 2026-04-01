@@ -8,3 +8,4 @@ A simple compatibility library for the *inspector-hook* of CDR-6.
 | systems | trivial-inspector-hook |
 |---------+-------------------------------------------|
 
+ 
